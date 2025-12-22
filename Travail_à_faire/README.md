@@ -10,7 +10,7 @@ Salma Akajou
 ## Supervisé par
 Mr. ESSARRAJ FOUAD
 
-## Livrable Sprint 2
+## Livrable 
 - Gestion des articles
 - Interface d’administration des articles
 - Affichage de la liste des articles
@@ -18,3 +18,9 @@ Mr. ESSARRAJ FOUAD
 - Recherche et filtrage des articles
 - Validation des formulaires
 - Internationalisation des messages
+
+## Choix de lab
+- Internationalisation (Lang) 
+
+## Entretien avec : 
+- Formateur Fatine Chehab
