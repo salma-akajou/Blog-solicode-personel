@@ -20,7 +20,7 @@ Mr. ESSARRAJ FOUAD
 - Internationalisation des messages
 
 ## Choix de lab
-- Internationalisation (Lang) 
+- Upload files
 
 ## Entretien avec : 
 - Formateur Fatine Chehab
