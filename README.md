@@ -45,21 +45,13 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ![Scrum](images_presentation/scrum.png)
 
-**J’ai travaillé par Scrum :**  
-- Organisation du travail en sprints courts  
-- Suivi régulier des tâches  
-
 
 ---
 
 ## Méthodologie : Design Thinking
 
 ![Design Thinking](images_presentation/design_thinking.png)
-
-**J’ai travaillé par Design Thinking :**  
-- Conception centrée sur l’utilisateur  
-- Prototypage de la maquette avant développement  
-- Tests et ajustements de l’interface  
+ 
 
 ---
 
