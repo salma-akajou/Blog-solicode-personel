@@ -48,7 +48,7 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 **J’ai travaillé par Scrum :**  
 - Organisation du travail en sprints courts  
 - Suivi régulier des tâches  
-- Priorisation et révision à chaque sprint  
+
 
 ---
 
